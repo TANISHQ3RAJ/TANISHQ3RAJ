@@ -1,26 +1,19 @@
-<!-- Animated header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=120&section=header&text=TANISHQ%20CHAURASIA&fontSize=42&fontColor=FFFFFF&fontAlignY=65&animation=fadeIn&desc=ECE%20Student%20%C2%B7%20AI%20Builder%20%C2%B7%20IoT%20Tinkerer&descSize=16&descAlignY=85&descColor=00D4FF"/>
-
 <div align="center">
 
-<!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&random=false&width=700&height=60&lines=🤖+Building+AI-Powered+Applications;🔌+Tinkering+with+ESP32+%26+IoT+Systems;📡+Electronics+%26+Communication+Engineer;🚀+Turning+Bold+Ideas+into+Real+Products;💡+Always+Learning+%7C+Always+Shipping)](https://git.io/typing-svg)
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=120&section=header&text=TANISHQ%20CHAURASIA&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20AI%20Builder%20%7C%20IoT%20Tinkerer&descAlignY=60&descSize=16"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=🤖+Building+AI-Powered+Applications;🔌+Tinkering+with+ESP32+%26+IoT+Systems;📡+Electronics+%26+Communication+Engineer;🚀+Turning+Bold+Ideas+into+Real+Products;💡+Always+Learning+%7C+Always+Shipping)](https://git.io/typing-svg)
 
-<!-- Animated badge row -->
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TANISHQ3RAJ.TANISHQ3RAJ&left_color=0D1117&right_color=00D4FF&left_text=👁️%20Visitors)
-![GitHub followers](https://img.shields.io/github/followers/TANISHQ3RAJ?label=Followers&style=flat&color=00D4FF&labelColor=0D1117&logo=github)
-![GitHub stars](https://img.shields.io/github/stars/TANISHQ3RAJ?label=Stars&style=flat&color=00D4FF&labelColor=0D1117&logo=github)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=TANISHQ3RAJ.TANISHQ3RAJ&left_color=0D1117&right_color=00D4FF&left_text=👁️%20Visitors)](https://github.com/TANISHQ3RAJ)
+[![GitHub followers](https://img.shields.io/github/followers/TANISHQ3RAJ?label=Followers&style=flat&color=00D4FF&labelColor=0D1117&logo=github)](https://github.com/TANISHQ3RAJ)
+[![GitHub stars](https://img.shields.io/github/stars/TANISHQ3RAJ?label=Stars&style=flat&color=00D4FF&labelColor=0D1117&logo=github)](https://github.com/TANISHQ3RAJ)
 
 </div>
 
 ---
 
-<!-- Animated sidebar + whoami -->
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=TANISHQ3RAJ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&rank_icon=github&card_width=400"/>
-
-## `whoami`
+## `> WHO AM I`
 
 ```python
 class TanishqChaurasia:
@@ -28,19 +21,17 @@ class TanishqChaurasia:
     degree   = "B.Tech ECE @ JIET Jodhpur"
     batch    = "2024 – 2028"
     location = "Jodhpur, Rajasthan 🇮🇳"
-    
+
     interests = [
         "AI-Powered Apps 🤖",
         "IoT & Embedded Systems 🔌",
         "Web Development 🌐",
         "Automation 🔧",
     ]
-    
+
     currently_building = "AI tools that solve real problems"
     always_learning    = True
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -48,10 +39,7 @@ class TanishqChaurasia:
 
 <div align="center">
 
-<!-- Animated skill icons via skillicons -->
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,git,github,matlab,arduino,streamlit&theme=dark&perline=10)](https://skillicons.dev)
-
-<br/>
+![Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,git,github,matlab,arduino,vscode&theme=dark&perline=10)
 
 **Languages**
 
@@ -194,20 +182,13 @@ class TanishqChaurasia:
 
 <div align="center">
 
-<!-- Stats cards row -->
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TANISHQ3RAJ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8"/>
 &nbsp;&nbsp;
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=TANISHQ3RAJ&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=FFFFFF&dates=888888"/>
 
 <br/><br/>
 
-<!-- Animated activity graph -->
-[![Tanishq's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TANISHQ3RAJ&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<!-- Animated snake contribution graph -->
-![snake gif](https://github.com/TANISHQ3RAJ/TANISHQ3RAJ/blob/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TANISHQ3RAJ&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&custom_title=Contribution%20Graph)
 
 </div>
 
@@ -221,7 +202,7 @@ class TanishqChaurasia:
 |---|---|---|---|
 | **Google AI Professional Certificate** | Coursera | May 2026 | [AS8NX6WFS4LF](https://coursera.org/verify/professional-cert/AS8NX6WFS4LF) |
 
-*7 courses · 20+ AI artifacts · Prompt engineering · Responsible AI*
+*7 courses completed · 20+ AI artifacts built · Prompt engineering · Responsible AI*
 
 </div>
 
@@ -244,10 +225,10 @@ class TanishqChaurasia:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tanishq.24jiec053@jietjodhpur.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/TANISHQ3RAJ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tanishq-chaurasia)
-[![Coursera](https://img.shields.io/badge/Coursera-0D1117?style=for-the-badge&logo=coursera&logoColor=0056D2)](https://coursera.org/verify/professional-cert/AS8NX6WFS4LF)
+[![Email](https://img.shields.io/badge/Email-tanishq.24jiec053%40jietjodhpur.ac.in-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:tanishq.24jiec053@jietjodhpur.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-TANISHQ3RAJ-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/TANISHQ3RAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanishq%20Chaurasia-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/tanishq-chaurasia)
+[![Coursera](https://img.shields.io/badge/Coursera-Profile-0D1117?style=for-the-badge&logo=coursera&logoColor=0056D2)](https://coursera.org/verify/professional-cert/AS8NX6WFS4LF)
 
 </div>
 
@@ -255,8 +236,7 @@ class TanishqChaurasia:
 
 <div align="center">
 
-<!-- Animated quote -->
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20things%20that%20matter.%20Learn%20by%20doing.%20Ship%20and%20iterate.&author=Tanishq%20Chaurasia)](https://github.com/piyushsuthar/github-readme-quotes)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Build%20things%20that%20matter.%20Learn%20by%20doing.%20Ship%20and%20iterate.&author=Tanishq%20Chaurasia)
 
 <br/>
 
@@ -264,5 +244,5 @@ class TanishqChaurasia:
 
 </div>
 
-<!-- Animated footer wave -->
+<!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D4FF,100:0D1117&height=80&section=footer"/>
